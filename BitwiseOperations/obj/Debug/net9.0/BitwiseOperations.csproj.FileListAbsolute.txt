@@ -1,0 +1,15 @@
+C:\Users\benoi_xg7tc3\source\repos\computer-science-topics\BitwiseOperations\bin\Debug\net9.0\BitwiseOperations.exe
+C:\Users\benoi_xg7tc3\source\repos\computer-science-topics\BitwiseOperations\bin\Debug\net9.0\BitwiseOperations.deps.json
+C:\Users\benoi_xg7tc3\source\repos\computer-science-topics\BitwiseOperations\bin\Debug\net9.0\BitwiseOperations.runtimeconfig.json
+C:\Users\benoi_xg7tc3\source\repos\computer-science-topics\BitwiseOperations\bin\Debug\net9.0\BitwiseOperations.dll
+C:\Users\benoi_xg7tc3\source\repos\computer-science-topics\BitwiseOperations\bin\Debug\net9.0\BitwiseOperations.pdb
+C:\Users\benoi_xg7tc3\source\repos\computer-science-topics\BitwiseOperations\obj\Debug\net9.0\BitwiseOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benoi_xg7tc3\source\repos\computer-science-topics\BitwiseOperations\obj\Debug\net9.0\BitwiseOperations.AssemblyInfoInputs.cache
+C:\Users\benoi_xg7tc3\source\repos\computer-science-topics\BitwiseOperations\obj\Debug\net9.0\BitwiseOperations.AssemblyInfo.cs
+C:\Users\benoi_xg7tc3\source\repos\computer-science-topics\BitwiseOperations\obj\Debug\net9.0\BitwiseOperations.csproj.CoreCompileInputs.cache
+C:\Users\benoi_xg7tc3\source\repos\computer-science-topics\BitwiseOperations\obj\Debug\net9.0\BitwiseOperations.sourcelink.json
+C:\Users\benoi_xg7tc3\source\repos\computer-science-topics\BitwiseOperations\obj\Debug\net9.0\BitwiseOperations.dll
+C:\Users\benoi_xg7tc3\source\repos\computer-science-topics\BitwiseOperations\obj\Debug\net9.0\refint\BitwiseOperations.dll
+C:\Users\benoi_xg7tc3\source\repos\computer-science-topics\BitwiseOperations\obj\Debug\net9.0\BitwiseOperations.pdb
+C:\Users\benoi_xg7tc3\source\repos\computer-science-topics\BitwiseOperations\obj\Debug\net9.0\BitwiseOperations.genruntimeconfig.cache
+C:\Users\benoi_xg7tc3\source\repos\computer-science-topics\BitwiseOperations\obj\Debug\net9.0\ref\BitwiseOperations.dll
